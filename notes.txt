@@ -1,0 +1,12 @@
+https://www.youtube.com/watch?v=SPbACzaIjJ8&list=PLo5lAe9kQrwoHwcbkdvckGjT0JnwxhAzz&index=10&ab_channel=FaztCode
+50:29    
+    "experimentalDecorators": true,                   /* Enable experimental support for TC39 
+    "emitDecoratorMetadata": true,   
+    "strictPropertyInitialization": true,   
+1:40:38
+    distpatch redux final...
+1:50:12 
+    estados de extraReducer en redux
+        pending:establecer el estado a cargando
+        fulfilled:actualziar estado
+        rejected:estoad ocon message de error
